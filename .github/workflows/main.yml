@@ -1,4 +1,4 @@
-name: Rossmann_Pharmaceutical_sales_Prediction
+name: Prompt_Engineering_LLM
 on: [push]
 jobs:
   run:
