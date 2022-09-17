@@ -9,7 +9,7 @@ import random
 from dotenv import load_dotenv
 from difflib import SequenceMatcher
 
-sys.path.append(os.path.abspath(os.path.join("./Scripts/")))
+sys.path.append(os.path.abspath(os.path.join("./scripts/")))
 import config
 
 
